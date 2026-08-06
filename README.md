@@ -1,8 +1,8 @@
-# Jorge Sandoval
+# Jorge Alejandro Sandoval Romo
 
 Software engineer based in Tijuana, Mexico, building mobile, full-stack, and applied-AI products. I work primarily with TypeScript, React Native, Next.js, and Python.
 
-I have completed the degree requirements for Software and Emerging Technologies Engineering at UABC, and I am currently open to junior software engineering, QA automation, application support, and technical IT opportunities.
+I have completed the degree requirements for Software and Emerging Technologies Engineering at UABC; degree issuance is pending. I am currently open to junior software engineering, QA automation, application support, and technical IT opportunities.
 
 ## Selected work
 
