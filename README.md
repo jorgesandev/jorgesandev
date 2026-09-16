@@ -1,33 +1,26 @@
-# Jorge Alejandro Sandoval Romo
+# Hi, I'm Jorge.
 
-Software engineer based in Tijuana, Mexico, building mobile, full-stack, and applied-AI products. I work primarily with TypeScript, React Native, Next.js, and Python.
+Software engineer based in Tijuana, building useful fullstack products and applied-AI systems.
 
-I have completed the degree requirements for Software and Emerging Technologies Engineering at UABC; degree issuance is pending. I am currently open to junior software engineering, QA automation, application support, and technical IT opportunities.
+I work primarily with TypeScript, React, Next.js, React Native, and Python. I care about clear technical decisions, honest limitations, and software that works well for the people using it.
+
+I'm currently open to software engineering opportunities, selected freelance projects, and collaborations.
 
 ## Selected work
 
-- [LiquiFi](https://github.com/jorgesandev/liquifi) - 1st place at Ethereum Mexico 2025; decentralized invoice financing with Next.js and Arbitrum smart contracts.
-- [Senda](https://github.com/jorgesandev/Senda) - accessible pedestrian routing for Tijuana with Next.js, FastAPI, Valhalla, and live citizen reports.
-- [DenialDefender](https://github.com/jorgesandev/denialdefender) - multimodal RAG workflow for drafting hospital insurance appeals from synthetic clinical data.
-- [AxoCred](https://github.com/jorgesandev/axocred-demo) - 2nd place at Crevolution 2025; conversational AI for proactive credit renegotiation.
-- [Selenium Page Object Model](https://github.com/jorgesandev/selenium-page-object-model) - Java, Selenium, TestNG, and Maven test-automation project.
+- **[Senda](https://github.com/jorgesandev/Senda)** — Accessible pedestrian routing with Next.js, FastAPI, Valhalla, and live citizen reports.
+- **[Yaocihuatl](https://github.com/jorgesandev/yaocihuatl)** — Civic-tech MVP using retrieval, synthetic demonstration data, and human-review safeguards.
+- **[LiquiFi](https://github.com/jorgesandev/liquifi)** — Invoice-financing prototype built with Next.js and Arbitrum. 1st place at Ethereum México 2025.
 
-## Stack
+## Toolkit
 
-**Languages:** TypeScript, JavaScript, Python, Java, SQL
+**Languages:** TypeScript, JavaScript, Python, SQL  
+**Frontend:** React, Next.js, React Native  
+**Backend:** FastAPI, Django, Node.js  
+**Data & infrastructure:** PostgreSQL, Redis, AWS, Docker
 
-**Product:** React, React Native (Expo), Next.js, Node.js, Django, FastAPI
+## Elsewhere
 
-**Data and cloud:** PostgreSQL, Firebase, Redis, AWS, GCP
-
-**Quality and tools:** Selenium, TestNG, Docker, Git, Linux
-
-## Experience
-
-- **Pitch Jams** - Founding Software Engineer on a part-time equity startup project; building the beta Expo application and contributing to the Django REST backend.
-- **Directive Consulting** - Information Technology Intern; built an internal asset inventory system with Next.js, Firebase, and the Google Workspace Admin SDK.
-- **UABC** - Software Developer for professional social service; developed a React, Express, and PostgreSQL student tracking system.
-
-## Contact
-
-[Portfolio](https://jorgesandoval.dev) | [LinkedIn](https://www.linkedin.com/in/jorgesandev/) | [jorge@jorgesandoval.dev](mailto:jorge@jorgesandoval.dev)
+[Portfolio](https://jorgesandoval.dev) ·
+[LinkedIn](https://www.linkedin.com/in/jorgesandev/) ·
+[Email](mailto:contact@jorgesandoval.dev)
